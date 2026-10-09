@@ -1,0 +1,14 @@
+{
+  "name": "inventory-data-management-system",
+  "version": "1.0.0",
+  "description": "Web Dev III Assignment 3 - Inventory and Data Management System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  }
+}
